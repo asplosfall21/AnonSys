@@ -1,0 +1,15 @@
+# obj files
+*.o
+*.ko
+*.cmd
+*.mod.c
+*.mod
+
+# Arctefacts
+.tmp_versions
+Module.symvers
+modules.order
+
+# Binary
+a.out
+testenclave

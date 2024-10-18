@@ -1,0 +1,24 @@
+# Build Directory
+build
+
+# Dependent tools
+tools
+
+# vim files
+*.swp
+
+#atom files
+.tags*
+
+# gdb
+gdb.txt
+
+core
+
+# Tmp
+*.tmp
+*.bak
+*.txt
+*.log
+.vscode
+.bsclsp

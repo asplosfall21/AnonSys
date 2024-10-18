@@ -1,0 +1,6 @@
+build*
+sim*
+*.log
+log
+wmm.o
+*.txt

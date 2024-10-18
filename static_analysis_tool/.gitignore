@@ -1,0 +1,36 @@
+# Object files
+*.o
+
+# Assembly files
+*.asm
+
+# Backup files
+*~
+
+# Temporary files
+*.swp
+*.swo
+
+# Build directories
+/build/
+/bin/
+
+# Dependency files
+*.d
+
+# Libraries
+*.a
+*.so
+
+# Executables
+*.exe
+*.out
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

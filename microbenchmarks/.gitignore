@@ -1,0 +1,12 @@
+#Vim
+*.swp
+
+#Build Files
+build
+
+*.txt
+*.log
+*.out
+*.tmp
+
+SOCK.*
